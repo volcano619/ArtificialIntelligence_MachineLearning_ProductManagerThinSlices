@@ -1,4 +1,4 @@
-# Driver Safety Copilot — Thin Slice (Netradyne-style)
+# Driver Safety Copilot — Thin Slice
 
 This bundle includes:
 - Streamlit demo (mock-ready), pluggable model adapter
