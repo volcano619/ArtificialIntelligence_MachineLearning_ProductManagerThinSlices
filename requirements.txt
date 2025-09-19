@@ -1,0 +1,8 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==2.0.1
+# Optional when you add a real model:
+# mediapipe
+# opencv-python
+# ultralytics
+# torch
